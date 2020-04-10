@@ -1,5 +1,0 @@
-name: hola-upvx
-channels:
-  - conda-forge
-dependencies:
-  - math
